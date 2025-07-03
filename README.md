@@ -75,6 +75,9 @@ simplificaCodeMentor/
 <div align="center">
 
 ✨ Desenvolvido por **Cristina Andrade** – 2025  
+
+Engenheira da Computação - CREA 2024107872
+
 Aplicação de LLMs com Streamlit para mentoria inteligente personalizada
 Construído com LangChain, OpenRouter, Streamlit e boas práticas de IA aplicada.
 
