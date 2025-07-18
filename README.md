@@ -58,7 +58,8 @@ pip install -r requirements.txt
  
 6. Instale o langChain dentro do ambiente virtual
    ```bash
-  pip install langchain
+   pip install langchain[all]
+
 
 ▶️ Como executar
    ```bash
