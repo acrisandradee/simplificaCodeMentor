@@ -52,6 +52,13 @@ pip install -r requirements.txt
 4. Configure sua chave da API
    ```bash
     OPENROUTER_API_KEY=sk-xxxxxxx
+5. Instale o Streamlit dentro do ambiente virtual
+   ```bash
+   pip install streamlit
+ 
+6. Instale o langChain dentro do ambiente virtual
+   ```bash
+  pip install langchain
 
 ▶️ Como executar
    ```bash
